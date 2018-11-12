@@ -1,0 +1,5 @@
+注意事项：
+（1）64位windows 7或更高版本的windows操作系统
+（2）必须连网，而且要网络畅通
+运行方式：
+进入dist文件夹，再进入magnetSearch文件夹，然后找到可执行程序magnetSearch.exe，双击运行即可
